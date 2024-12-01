@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xt4zAFK/n+Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djesu\\RiderProjects\\HybridCacheExample\\HybridCacheExample\\HybridCacheExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.extensions.caching.hybrid\\9.0.0-preview.9.24556.5\\microsoft.extensions.caching.hybrid.9.0.0-preview.9.24556.5.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.extensions.caching.memory\\9.0.0\\microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.extensions.caching.stackexchangeredis\\9.0.0\\microsoft.extensions.caching.stackexchangeredis.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
